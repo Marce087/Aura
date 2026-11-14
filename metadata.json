@@ -1,0 +1,6 @@
+{
+  "name": "Aura Botánica",
+  "description": "Cuidado facial minimalista, productos botánicos esenciales y planificador de rutina diaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
